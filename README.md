@@ -15,7 +15,7 @@ After creating the development enviornment, run the above command which will loa
 ```
 python demo.py
 ```
-Run the above command for a live multithreaded GUI demonstration. You will greated with the following screen (with the non blank second screen). Left video is the person being followed and right video will be from your webcam. Please edit the line number 286 and give the path to the video file to be followed. 
+Run the above command for a live multithreaded GUI demonstration. You will be greated with the following screen (with the non blank second screen). Left video is the person being followed and right video will be from your webcam. Please edit the line number 286 and give the path to the video file to be followed. 
 
 ![alt text](https://github.com/mshakeelt/fitPartner/blob/main/test_media/demo.png)
 
