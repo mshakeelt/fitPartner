@@ -5,7 +5,7 @@ fitPartner is an experimental fitness trainer based on AI. The repository contai
 * [MediaPipe Pose](https://google.github.io/mediapipe/solutions/pose.html)
 * [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
-For installation of these libraries please go to the respective liks. JFYI Some below demos does not support the later 2 backends. I might add them later!
+For installation of these libraries please go to the respective links. JFYI Some below demos does not support the later 2 backends. I might add them later!
 
 ```
 python main.py
