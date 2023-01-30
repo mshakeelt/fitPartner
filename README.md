@@ -1,4 +1,4 @@
-# fitPartner
+# fitPartner ![alt text](https://github.com/mshakeelt/fitPartner/blob/main/test_media/LOGO-nobg.png)
 fitPartner is an experimental fitness trainer based on AI. The repository contains inference code for the pose estimation using following three SOTA keypoint detection frameworks
 
 * [TRT Pose](https://github.com/NVIDIA-AI-IOT/trt_pose)
