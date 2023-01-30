@@ -1,3 +1,8 @@
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/mshakeelt/fitPartner/blob/main/test_media/LOGO.PNG">
+</p>
+
+
 ![alt text](https://github.com/mshakeelt/fitPartner/blob/main/test_media/LOGO.PNG)
 
 # fitPartner
